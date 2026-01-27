@@ -1,0 +1,8 @@
+Q11. Check whether a character is a vowel or consonant.
+Q12. Take marks as input and print the Grade (A/B/C/D/F).
+Q13. Print all numbers between 1 and 100 that are divisible by 7.
+Q14. Write a program to calculate the sum of digits of a number (e.g., 123 → 6).
+Q15. Ask the user for a password until they enter the correct one.
+Q16. Write a program to find all factors of a number.
+Q17. Reverse a string using a loop (no slicing).
+Q18. Print the multiplication table of a number (e.g., 5 × 1 … 5 × 10).
